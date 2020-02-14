@@ -1,10 +1,10 @@
-# autonomous-race-cars
+# Optimal Path Planning and Following for Autonomous Race Cars
 Animations and videos showcasing final year project: 'Optimal Path Planning and Following for Autonomous Race Cars'
 
 ## Contributors
-Seth Siriya
-Tony Srour
-Khoa Tran
+ * Seth Siriya
+ * Tony Srour
+ * Khoa Tran
 
 ## Acknowledgements
  * Supervised by Dr. Ye Pu, A/Prof Iman Shames and Prof Michael Cantoni.
