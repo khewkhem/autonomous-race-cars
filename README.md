@@ -6,6 +6,9 @@ Animations and videos showcasing final year project: 'Optimal Path Planning and 
  * Animation of simulation for combination of path planning and following algorithms for racing whilst avoiding dynamic obstacles available [HERE](https://github.com/khewkhem/autonomous-race-cars/blob/master/path-planning-following-simulation.gif).
  * Video of path planning/following algorithm implemented on real robot driving around track available [HERE](https://github.com/khewkhem/autonomous-race-cars/blob/master/drive-around-track-implementation.mp4).
  * Video of path planning/following algorithm implemented on real robot avoiding an obstacle available [HERE](https://github.com/khewkhem/autonomous-race-cars/blob/master/collision-avoidance-implementation.mp4).
+ 
+## Implementation
+ * All of the code for Gazebo and real implementation can be found [HERE](https://github.com/tsrour/aionr6-mpc-ros).
 
 ## Contributors
  * Seth Siriya
